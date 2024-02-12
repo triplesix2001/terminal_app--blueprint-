@@ -2,7 +2,6 @@ import team_mode
 import channel_mode
 import group_mode
 import sys
-import utils
 
 def main():
     """Entry point for the application."""
